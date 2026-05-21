@@ -1,0 +1,35 @@
+h1{
+    text-decoration: wavy red underline;
+    letter-spacing: 10px;
+    font-size: 50px;
+    text-align: right;
+    border: solid;
+    width: 50%;
+    color: red;
+    background-color: pink;
+}
+
+p{
+    font-weight: bold; 
+    line-height: 2.5;
+    line-height: 10;
+    font-size: 15px;
+    color: rgb(100, 12,234);
+    background-color: chocolate;
+    text-align: right;
+}
+h3{
+    /* font-weight: normal; */
+    text-decoration: dashed green overline;
+    text-align: right;
+}
+h2{
+    text-decoration:dotted  blue line-through;
+}
+a{
+    text-decoration: none;
+}
+button{
+    color: #fff000;
+    background-color: black;
+}
