@@ -1,0 +1,7 @@
+div[id="myId"] p {
+    color: green;
+}
+/* OR */
+#myId p {
+    color: green;
+}
